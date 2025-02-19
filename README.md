@@ -19,9 +19,10 @@ I'm a **Penetration Tester & Red Team Member** with a strong passion for **Offen
 - **Bug bounty research & exploit development**  
 
 ### 📫 How to reach me...  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Twitter (X):** [Your Twitter/X Profile]  
-- **Email:** [Your Email]  
+- **LinkedIn:** ( https://www.linkedin.com/in/babulsecx )]  
+- **Twitter (X):** [ https://twitter.com/BabulSecX ]  
+- **Youtube:** [BabulSecX]  
+
 
 ### 😄 Pronouns: He/Him  
 
