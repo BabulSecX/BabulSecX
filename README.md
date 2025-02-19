@@ -21,7 +21,7 @@ I'm a **Penetration Tester & Red Team Member** with a strong passion for **Offen
 ### 📫 How to reach me...  
 - **LinkedIn:** ( https://www.linkedin.com/in/babulsecx )]  
 - **Twitter (X):** [ https://twitter.com/BabulSecX ]  
-- **Youtube:** [BabulSecX]  
+- **Youtube:** [https://youtube.com/BabulSecX]  
 
 
 ### 😄 Pronouns: He/Him  
