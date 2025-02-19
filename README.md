@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @BabulSecX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi, I’m @BabulSecX  
+I'm a **Penetration Tester & Red Team Member** with a strong passion for **Offensive Security, Adversary Emulation, and Ethical Hacking**. I specialize in **network & system penetration testing, red teaming, and security research**.  
 
-<!---
-BabulSecX/BabulSecX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 I’m interested in...  
+- Advanced **Red Team Operations**  
+- **Adversary Emulation & Threat Simulation**  
+- **Penetration Testing & Exploit Development**  
+- **Bug Bounty Hunting & Web Security**  
+- **Cloud & Active Directory Security**  
+
+### 🌱 I’m currently learning...  
+- **Advanced Red Teaming Techniques**  
+- **Cloud Security & Azure AD Attacks**  
+- **Windows Internals & Kernel Exploitation**  
+
+### 💞️ I’m looking to collaborate on...  
+- **Open-source security tools & projects**  
+- **Developing hands-on penetration testing labs**  
+- **Bug bounty research & exploit development**  
+
+### 📫 How to reach me...  
+- **LinkedIn:** [Your LinkedIn Profile]  
+- **Twitter (X):** [Your Twitter/X Profile]  
+- **Email:** [Your Email]  
+
+### 😄 Pronouns: He/Him  
+
+### ⚡ Fun fact:  
+- I love **breaking into systems (ethically!) and teaching others how to defend them.**  
+- I'm working on creating **hands-on penetration testing courses for Udemy**.  
+
+🚀 **Let’s connect and collaborate on exciting security projects!**
